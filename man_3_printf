@@ -76,3 +76,5 @@ _printf("Hello world, I'm a %s", "cuteface");
 return (0);
 
 }
+
+Hello world, I'm a cuteface
